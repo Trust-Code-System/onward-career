@@ -2,11 +2,15 @@
 
 A responsive landing-page concept for a personal job-search service. Onward is a working brand, ready to replace with the client's name and logo.
 
+[Live website](https://onward-career.vercel.app) · [GitHub repository](https://github.com/Trust-Code-System/onward-career)
+
 ![Onward landing page](docs/preview.jpg)
 
 ## Hosting
 
 The project is configured for Vercel with the Vite framework, `npm run build` as the build command, and `dist` as the output directory. There are no environment variables or backend services to configure for this landing-page concept.
+
+The Vercel project belongs to the `hello-76386237s-projects` workspace (Trustcode System) and is connected to this repository's `main` branch. Pushes to `main` trigger production deployments; other branches receive previews.
 
 ## Run locally
 
