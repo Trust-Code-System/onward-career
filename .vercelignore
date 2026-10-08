@@ -1,0 +1,8 @@
+.git/
+node_modules/
+dist/
+artifacts/
+docs/
+.ui-craft/
+.better-web-ui.md
+*.tsbuildinfo
